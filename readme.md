@@ -52,6 +52,7 @@ __Client Application__
 * [Hyperledger Fabric & couchdb, fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767)
 * [Setting up RESTful API Server for Hyperledger Fabric With NodeJS SDK](https://www.skcript.com/svr/setting-up-restful-api-server-for-hyperledger-fabric-with-nodejs-sdk/)
 * [Configuring Node SDK’s Connection Profile for Multiple Channel - Multiple Chaincode](https://www.skcript.com/svr/configuring-node-sdk-s-connection-profile-for-multiple-channel-multiple-chaincode/)
+* [Creating a Hyperledger Fabric network from scratch ](https://medium.com/coinmonks/creating-a-hyperledger-fabric-network-from-scratch-part-i-designing-the-network-23d803bbdb61)
 
 
 __Engineering__
