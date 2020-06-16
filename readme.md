@@ -64,6 +64,7 @@ __Engineering__
 * [Marbles](https://github.com/IBM-Blockchain/marbles) - A simple asset transfer project based on Hyperledger Fabric
 * [Composer Sample Application](https://github.com/hyperledger/composer-sample-applications) - Sample composer business network applications to get started with
 * [fabric-dev-servers-multipeer](https://github.com/varun-raj/fabric-dev-servers-multipeer) - Composer dev server to run mutliple peers in multiple physical host machines.
+* [Hyperledger fabric supply chain](https://github.com/ialberquilla/hlf1.4-supply-chain)
 
 ## Hyperledger Sawtooth
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/sawtooth)
